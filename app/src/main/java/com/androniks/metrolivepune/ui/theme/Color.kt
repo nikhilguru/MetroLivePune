@@ -4,7 +4,7 @@ import androidx.compose.ui.graphics.Color
 
 val DarkPrimary = Color(0xFF003366) // Dark Blue
 val DarkOnPrimary = Color.White
-val DarkSecondary = Color(0xFFFFA07A) // Peach
+val DarkSecondary = Color(0xFF64BBFF) // Peach
 val DarkOnSecondary = Color.Black
 val DarkBackground = Color.Black
 val DarkOnBackground = Color.White
@@ -19,7 +19,7 @@ val DarkOutlineVariant = Color(0xFF2A2A2A)
 
 val LightPrimary = Color(0xFF003366) // Dark Blue
 val LightOnPrimary = Color.White
-val LightSecondary = Color(0xFFFFA07A) // Peach
+val LightSecondary = Color(0xFF64BBFF) // Peach
 val LightOnSecondary = Color.Black
 val LightBackground = Color.White
 val LightOnBackground = Color.Black

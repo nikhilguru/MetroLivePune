@@ -3,5 +3,16 @@
     <string name="select_route">Select Route</string>
     <string name="routes">Routes</string>
     <string name="live_metro">Live Metro</string>
-    <string name="settings">Settings</string>
+    <string name="settings">Share Location</string>
+    <string name="disclaimer_text">Disclaimer: Your live location will be shared with other commuters as the train\'s live location while you\'re seated in the metro. This helps provide real-time updates for everyone.\nWe do not share your location with third parties or store it permanently. Your live location is used only to show the train\'s current position to other commuters and is anonymized for privacy.</string>
+    <string name="get_location">Get Metro Live Location</string>
+    <string name="live_loc_disclaimer">Disclaimer: The live Metro location is shared by other commuters and may not be fully accurate. Please do not rely on it entirely for real-time tracking. We are not responsible for any discrepancies in the data.</string>
+    <string name="share_live_loc">Turn on location sharing</string>
+    <string name="help_live_loc">Help others to catch the Metro on time</string>
+    <string name="only_commuter">Only when you\'re inside the Metro</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="loc_alert">Location Sharing</string>
+    <string name="loc_confirm">Are you sure that you\'re inside the Metro?</string>
+
 </resources>
