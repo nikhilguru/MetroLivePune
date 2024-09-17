@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#000000">
+
+    <!-- Left rail -->
+    <path
+        android:fillAlpha="0.3"
+        android:pathData="M7,1 L7,19"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+
+    <!-- Right rail -->
+    <path
+        android:fillAlpha="0.3"
+        android:fillColor="#000000"
+        android:pathData="M17,1 L17,19"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+
+    <!-- Horizontal ties -->
+    <path
+        android:strokeAlpha="0.7"
+        android:fillColor="#000000"
+        android:pathData="M5,4 L19,4"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+
+    <path
+        android:strokeAlpha="0.7"
+        android:fillColor="#000000"
+        android:pathData="M5,8 L19,8"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+
+    <path
+        android:strokeAlpha="0.7"
+        android:fillColor="#000000"
+        android:pathData="M5,12 L19,12"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+
+    <path
+        android:strokeAlpha="0.7"
+        android:fillColor="#000000"
+        android:pathData="M5,16 L19,16"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"/>
+
+
+</vector>

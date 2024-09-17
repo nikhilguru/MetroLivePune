@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MetroLive Pune</string>
+    <string name="select_route">Select Route</string>
+    <string name="routes">Routes</string>
+    <string name="live_metro">Live Metro</string>
+    <string name="settings">Settings</string>
+</resources>
